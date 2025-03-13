@@ -19,6 +19,8 @@ This repository is for predicting company bankruptcy using mock data.
 
 ### Supplier Stability Dashboard
 - Create a Flask/Dash dashboard to display supplier risk (color-coded indicators).
+![image3](https://github.com/user-attachments/assets/70776b81-ca8f-49eb-abc2-4fef7d224757)
+
 
 ### Required Libraries
 ```bash
