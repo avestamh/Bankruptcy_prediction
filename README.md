@@ -18,7 +18,7 @@ This repository is for predicting company bankruptcy using mock data.
 - Use NLP to extract risks from economic/news alerts.
 
 ### Supplier Stability Dashboard
-- Create a Flask/Dash dashboard to display supplier risk (color-coded indicators).
+- Create a Flask/Dash dashboard to display supplier risk (color-coded indicators). And integrate it with LLMs such as GPT4
 
 ![image2](https://github.com/user-attachments/assets/f51a277d-2467-4c49-83ea-c33757465857)
 
