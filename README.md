@@ -1,6 +1,6 @@
 # Bankruptcy_prediction
 
-This repository is for predicting company bankruptcy using mock data.
+This repository is for predicting company bankruptcy using mock data. I only included the mock code and the real code is in my private github
 
 ## Implementation Details
 
