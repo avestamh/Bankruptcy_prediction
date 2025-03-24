@@ -125,6 +125,6 @@ Your D&B API subscription **may not have access** to the requested product. Cont
 
 ---
 
-## ** Now You’re All Set!**
+## **At the end!**
 Run the script, and your **D&B API data** will be fetched, saved, and uploaded to **Azure Blob Storage**. 🚀🎉
 
