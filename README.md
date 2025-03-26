@@ -1,6 +1,6 @@
 # Bankruptcy_prediction
-
-This repository is for predicting company bankruptcy using mock data. I only included the mock code and the real code is in my private github
+## IN PROGRESS WITH NONSENSITIVE DATA AND CODES
+This repository is used to predict company bankruptcy using mock data. I only included the mock code, and the real code is in my private GitHub
 
 ## Implementation Details
 
