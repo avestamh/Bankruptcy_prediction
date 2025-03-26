@@ -1,3 +1,7 @@
+'''
+This file is generating 100 random sample entries for the important parameters in a company bankruptcy.
+use this when you do not have access to actual data and only want to learn the process
+'''
 import pandas as pd
 import numpy as np
 
@@ -5,7 +9,7 @@ import numpy as np
 SEED_VALUE = 42
 np.random.seed(SEED_VALUE)
 
-# Define number of companies
+# Define the number of companies
 num_stable = 50
 num_bankrupt = 50
 
