@@ -74,7 +74,7 @@ python fetch_company_data.py
 ---
 
 ## **🔹 What the Script Does**
-**Fetches company data for "Scania"** from the **D&B API** using a `POST` request.  
+**Fetches company data for the selected company e.g *Ford* from the **D&B API** using a `POST` request.  
 **Saves the first company result** to `scania_company.json`.  
 **Uploads `scania_company.json` to Azure Blob Storage** under the `supplier-data` container.  
 
